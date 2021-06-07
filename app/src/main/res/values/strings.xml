@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rover Control</string>
+    <string name="start_btn">Start</string>
+    <string name="results_btn">See results</string>
+    <string name="input_title_tv">Input received:</string>
+    <string name="results_title_tv">Output generated:</string>
+    <string name="error_no_input_file">ERROR - no input file provided!</string>
+    <string name="error_input_file_no_json">ERROR - input file format is not a JSON!</string>
+    <string name="error_topRightCorner_empty">ERROR - topRightCorner not provided or empty</string>
+    <string name="error_topRightCorner_coordinates">ERROR - topRightCorner doesn\'t have x or y coordinate</string>
+    <string name="error_roverPosition_empty">ERROR - roverPosition not provided or empty</string>
+    <string name="error_roverPosition_coordinates">ERROR - roverPosition doesn\'t have x or y coordinate</string>
+    <string name="error_roverDirection_empty">ERROR - roverDirection not provided or empty</string>
+    <string name="error_roverDirection_format">ERROR - roverDirection wrong format</string>
+    <string name="error_movements_empty">ERROR - movements not provided or empty</string>
+    <string name="error_movements_format">ERROR - movements wrong format</string>
+    <string name="error_topRightCorner_roverPosition">ERROR - roverPosition is out of plateau dimensions</string>
+</resources>
